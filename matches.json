@@ -8,12 +8,12 @@
     "mandante": {
       "nome": "Brasil",
       "forca": 5
-      "imagem": "TODO"
+      "imagem": "https://www.gov.br/planalto/pt-br/conheca-a-presidencia/acervo/simbolos-nacionais/bandeira/bandeiranacionalbrasil_.jpg"
     },
     "visitante": {
       "nome": "Argentina",
       "forca": 5
-      "imagem": "TODO"
+      "imagem": "https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/bandeira-da-argentina-oficial.jpg"
     }
   }
 ]
